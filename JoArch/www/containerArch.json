@@ -1,0 +1,1 @@
+{"containers":[{"links":[{"name":"link2"}],"microservices":[{"trace":false,"name":"a","url":"https:\/\/github.com\/matmar95\/a"},{"trace":false,"name":"b","url":"https:\/\/github.com\/matmar95\/b"}]},{"links":[{"name":"link2"}],"microservices":[{"trace":false,"name":"c","url":"https:\/\/github.com\/matmar95\/c"}]}]}
